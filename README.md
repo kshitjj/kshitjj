@@ -1,8 +1,47 @@
-# My GitHub Portfolio
+<h2> Hey there! I'm Kshitij.</h2>
 
-As a software developer, I am constantly learning and experimenting with new technologies. My GitHub account showcases some of the projects that I have worked on some personal projects to gain experience.
+<h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-## Recent Projects
+- 🤔 &nbsp; Always looking to learn new things.
+- 🎓 &nbsp; Studying Internation Institute of Information Technology, Pune.
+- 💼 &nbsp; Looking for Internships.
+- 🌱 &nbsp; Learning more about React, Node.js and MongoDB.
+- ✍️ &nbsp; Love writing blogs around technical stuff.
 
-- Cash Register: A cash register project calculates change for customers. It takes the amount paid and the total cost, calculates the difference, and provides the change. It helps businesses avoid overcharging or undercharging. 
-- Minion Translator: A minion translator uses an API to translate text from one language to another. It allows users to input text and outputs the translation. It facilitates communication between people who speak different languages.
+<h3> 🛠 &nbsp;Tech Stack</h3>
+
+- 🌐 &nbsp;
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+- 🛢 &nbsp;
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+- ⚙️ &nbsp;
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+- 🔧 &nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  
+
+<br/>
+
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kshitjj&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kshitjj&theme=buefy&layout=compact" />
+</a>
+
+<br/>
+
+
+
+<p align="center">
+  <h3> 🤝🏻 &nbsp;Connect with Me </h3>
+<a href="https://twitter.com/kshitij_rajgude" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/tw.png" alt="Twitter" width="30"></a>
+<a href="https://www.instagram.com/kshitjj/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/ig.png" alt="Instagram" width="30"></a>
+<a href="https://www.linkedin.com/in/kshitij-rajgude-448954220/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/in.png" alt="LinkedIn" width="30"></a>
+<a href="https://kshitijrajgude.netlify.app/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/www.png" alt="Website" width="30"></a>
+</p>
