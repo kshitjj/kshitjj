@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Always looking to learn new things.
-- 🎓 &nbsp; Studying Internation Institute of Information Technology, Pune.
+- 🎓 &nbsp; Studying at Internation Institute of Information Technology, Pune.
 - 💼 &nbsp; Looking for Internships.
 - 🌱 &nbsp; Learning more about React, Node.js and MongoDB.
 - ✍️ &nbsp; Love writing blogs around technical stuff.
